@@ -1,1 +1,3 @@
-perkenalkan nama saya
+winda widodo
+alamat : cibitung
+jurusan : Teknik INFORMATIKA
