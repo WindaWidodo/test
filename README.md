@@ -1,3 +1,3 @@
-winda widodo
+nama : winda widodo
 alamat : cibitung
 jurusan : Teknik INFORMATIKA
